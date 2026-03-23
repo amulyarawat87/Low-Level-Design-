@@ -1,0 +1,9 @@
+1. Always run with build command --- Done
+2. Project structure needs to be improved --- done
+3. "public String getPiece()"" functions is not implemented correctly --- done
+4. "public Piece[][] board" must be private. -- done
+5. "GameController" constructor has some issues --- done
+6. Variable naming convention in GameController, Board class --- done
+7. "getPiece" return type issue --- done
+8. Traversing through classes which inherits other classes -- to be check in hardik's comp
+9. check_win and check_draw in O(1) time -- space requirement --- done
